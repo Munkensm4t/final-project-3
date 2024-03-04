@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Alamat email_login_id</name>
+   <tag></tag>
+   <elementGuidId>bc80deb0-88de-4285-878a-db966cff7fa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='login_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;login_id&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8bde8b71-16ac-436c-a3eb-b1fdfb4411df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>49662960-d9b2-4167-9431-356aee4eb140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>login_id</value>
+      <webElementGuid>89635217-8074-4a79-a3e2-b45904d99c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fr-textfield-input js-input-email</value>
+      <webElementGuid>0c352627-d4fc-47cf-ade3-a4f2e02470d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan alamat email Anda</value>
+      <webElementGuid>2fc5fedd-77ae-4532-8414-6ff5cb2fb90a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;fr-layer-base&quot;]/div[@class=&quot;fr-layer-item mtb-xxxl&quot;]/div[@class=&quot;bordered contained plr-m ptb-l&quot;]/div[@class=&quot;fr-flbox&quot;]/div[@class=&quot;fr-flitem fluid fr-flbox column&quot;]/div[@class=&quot;fr-wrapper&quot;]/form[@class=&quot;js-form&quot;]/div[@class=&quot;fr-wrapper mb-m&quot;]/div[@class=&quot;fr-textfield fr-required fr-input&quot;]/label[@class=&quot;fr-textfield-label fr-flbox column&quot;]/input[@class=&quot;fr-textfield-input js-input-email&quot;]</value>
+      <webElementGuid>7de327de-3810-4174-99ec-2d2973c0f378</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='login_id']</value>
+      <webElementGuid>ebbec4de-6c6b-48fd-bd95-0d48a0142907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>f46912fd-2413-4c52-a3c0-8d77d4d07b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'email' and @name = 'login_id' and @placeholder = 'Masukkan alamat email Anda']</value>
+      <webElementGuid>44743c4b-63e9-4441-8783-91143cfcecde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

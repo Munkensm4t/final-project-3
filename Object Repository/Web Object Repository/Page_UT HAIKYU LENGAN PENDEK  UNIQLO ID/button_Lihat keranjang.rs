@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lihat keranjang</name>
+   <tag></tag>
+   <elementGuidId>1f2bcac7-acaa-4110-8e5e-8ae61c51d16e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[19]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fr-filter-bottom-dialog.open > div > div.fr-flbox > div.fr-grid-item.mr-m > a > button.fr-btn.primary.fr-btn.w4-f.w4-f</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>947f5cb2-5c82-48c0-9f23-0fd3eae8975c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fr-btn primary fr-btn w4-f w4-f</value>
+      <webElementGuid>e6f45eac-758c-49dc-9140-1e09a4177c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3113677c-2ecc-4b79-92bb-b56a8ee74683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>lihat-keranjang-button</value>
+      <webElementGuid>28e4f3c7-5619-4ca8-b3c4-ded5d098053a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat keranjang</value>
+      <webElementGuid>03c4ca57-cbde-4064-b649-edab20f7b665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[2]/div[@class=&quot;fr-layer-item popup-modal fr-popup-confirm with-split-button open&quot;]/section[@class=&quot;fr-popup-confirm-contents&quot;]/div[@class=&quot;wrapper a11y-focus-section&quot;]/div[@class=&quot;fr-filter-bottom-dialog open&quot;]/div[1]/div[@class=&quot;fr-flbox&quot;]/div[@class=&quot;fr-grid-item mr-m&quot;]/a[1]/button[@class=&quot;fr-btn primary fr-btn w4-f w4-f&quot;]</value>
+      <webElementGuid>62503754-a945-4c28-9ff2-5ac320a20f7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[19]</value>
+      <webElementGuid>903e2162-0c0a-4678-820a-e60ffbcea088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div[2]/div/section/div/div[2]/div/div/div/a/button</value>
+      <webElementGuid>4bba7a68-7c3a-4ddb-a0f6-50f7a2587a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[4]/following::button[1]</value>
+      <webElementGuid>aecc0b72-36ea-49c4-9b6e-adac00f58908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut belanja'])[1]/preceding::button[1]</value>
+      <webElementGuid>ba68b1b5-6ce1-4db0-b5ff-c7f54ad70aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat keranjang']/parent::*</value>
+      <webElementGuid>386a83f0-9264-4675-a5c6-6d50f338c8f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/section/div/div[2]/div/div/div/a/button</value>
+      <webElementGuid>67182c22-e498-41ea-8362-ee68b8ce418e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Lihat keranjang' or . = 'Lihat keranjang')]</value>
+      <webElementGuid>9b8ca585-41a4-45dc-8674-bf7b59832458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

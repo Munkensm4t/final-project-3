@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambahkan ke keranjang</name>
+   <tag></tag>
+   <elementGuidId>01b3c5e5-b276-44c0-a7af-28e6ea8d6c9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.fr-btn.attention.mt-l.wundefined-f</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ac379e32-c4f9-47fc-a5ae-670e0f6c13c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fr-btn attention mt-l wundefined-f</value>
+      <webElementGuid>b048755f-33a4-4d9f-b6c7-232234e505c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1cd10214-ffb1-4406-845c-ad48603a920d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>tambahkan-ke-keranjang-button</value>
+      <webElementGuid>e5866fef-72b6-4c65-9743-335e3ce17459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambahkan ke keranjang</value>
+      <webElementGuid>d1018b36-f2af-4ead-a4cd-4e1b20efffd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;right&quot;)/div[@class=&quot;fr-wrapper mt-m&quot;]/div[3]/div[@class=&quot;mb-m&quot;]/div[@class=&quot;fr-pulldown-box stacked&quot;]/div[2]/button[@class=&quot;fr-btn attention mt-l wundefined-f&quot;]</value>
+      <webElementGuid>3c3e3ddc-8934-496a-a419-de8846b05f72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>14a3ddc5-29fb-46df-a95f-c40a1e9c0637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='right']/div[2]/div[3]/div/div/div[2]/button</value>
+      <webElementGuid>a0dc0a57-2356-4aae-adc9-d31d9d1963d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambahkan ke wishlist'])[3]/preceding::button[1]</value>
+      <webElementGuid>31208131-9730-4b7e-9b95-add78406a0d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari stok di toko'])[1]/preceding::button[1]</value>
+      <webElementGuid>dd43f45b-e783-4536-b8fa-8adc20518d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambahkan ke keranjang']/parent::*</value>
+      <webElementGuid>b4210002-0976-4e14-9ef6-6839cdf81920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/button</value>
+      <webElementGuid>6888cd0d-0287-4dd9-b297-61f8d5138b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tambahkan ke keranjang' or . = 'Tambahkan ke keranjang')]</value>
+      <webElementGuid>2a18056c-ff7c-43cb-8d87-339c1d5e9b0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
